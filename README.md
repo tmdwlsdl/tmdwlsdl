@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요 김승진입니다👋
 
 <!--
 **tmdwlsdl/tmdwlsdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img width="800px" src="https://github.com/j-nary/j-nary/blob/master/logo_unscreen.gif" />
-  <img src="https://github-readme-stats.vercel.app/api?username=j-nary&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-nary&layout=compact" />
+  <img width="800px" src="https://github.com/tmdwlsdl/tmdwlsdl/blob/main/logo.gif" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tmdwlsdl&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmdwlsdl&layout=compact" />
 </div>
 
 
